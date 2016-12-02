@@ -1,5 +1,5 @@
 # hello-world
 Hello world tutorial repository.
 
-== Markdown ===
+# Markdown
 This is a "markdown" file.
